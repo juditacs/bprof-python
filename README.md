@@ -2,7 +2,7 @@
 
 ## Jupyter telepítése
 
-[Hivatalos dokumentációs](http://jupyter.org/install)
+[Hivatalos dokumentáció](http://jupyter.org/install)
 
 ### Két lehetőség
 

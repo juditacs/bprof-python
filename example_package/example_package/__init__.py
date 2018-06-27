@@ -1,11 +1,11 @@
-print("I was imported")
+print("printing in the wild")
 
 def noise_maker():
     print("I make noise")
 
 
 def main():
-    print("I was called as a main script")
+    print("printing in the main")
 
 if __name__ == '__main__':
     main()
